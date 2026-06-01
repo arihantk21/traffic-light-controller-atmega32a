@@ -30,6 +30,10 @@ images/    -> Simulation screenshots
 
 The project was simulated in Proteus to verify traffic light sequencing and timing behavior.
 
+## Simulation Output
+
+https://github.com/arihantk21/traffic-light-controller-atmega32a/blob/050f6ea02619ad89b641b5d00ac0b74c258c7d69/image/image.png
+
 ## Note
 
 The original Proteus project files are no longer available. This repository contains the source code and simulation screenshots preserved from the project.
