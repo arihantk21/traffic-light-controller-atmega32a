@@ -32,7 +32,7 @@ The project was simulated in Proteus to verify traffic light sequencing and timi
 
 ## Simulation Output
 
-https://github.com/arihantk21/traffic-light-controller-atmega32a/blob/050f6ea02619ad89b641b5d00ac0b74c258c7d69/image/image.png
+https://github.com/arihantk21/traffic-light-controller-atmega32a/blob/95762efb5dc2d6c06e876bf8dc48b08657282528/Image/image.png
 
 ## Note
 
